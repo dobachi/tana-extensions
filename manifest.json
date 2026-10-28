@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "extensions": [
+    {
+      "id": "pdfjs",
+      "name": "PDF Preview",
+      "version": "4.10.38",
+      "description": "Render PDF files in the preview pane locally with pdf.js (Mozilla). Includes CMaps for Japanese/CJK PDFs. Offline after first download.",
+      "min_app_version": "0.5.6",
+      "total_size": 4424218,
+      "files": [
+        {
+          "rel": "pdf.min.mjs",
+          "url": "https://github.com/dobachi/tana-extensions/releases/download/pdfjs-4.10.38/pdf.min.mjs",
+          "sha256": "44ec6f011027ee77791386b66c14876a5fc29e20bf0433c07c6726fff7212b72",
+          "size": 398237
+        },
+        {
+          "rel": "pdf.worker.js",
+          "url": "https://github.com/dobachi/tana-extensions/releases/download/pdfjs-4.10.38/pdf.worker.js",
+          "sha256": "21baa4dcc8f716811a868ed2bacd700aee007b89115e3f7d7530bdbf9fc5af29",
+          "size": 1417601
+        },
+        {
+          "rel": "cmaps.json",
+          "url": "https://github.com/dobachi/tana-extensions/releases/download/pdfjs-4.10.38/cmaps.json",
+          "sha256": "d95606e364ea0e29a4105b461cae8b78c17e026101aa3a7e1c706580a571eeec",
+          "size": 1557319
+        },
+        {
+          "rel": "standard_fonts.json",
+          "url": "https://github.com/dobachi/tana-extensions/releases/download/pdfjs-4.10.38/standard_fonts.json",
+          "sha256": "9a42ff66988b3282171a487f7662fb3fd4e588086043609819be96e66f30c213",
+          "size": 1032840
+        },
+        {
+          "rel": "LICENSE",
+          "url": "https://github.com/dobachi/tana-extensions/releases/download/pdfjs-4.10.38/LICENSE",
+          "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+          "size": 10174
+        },
+        {
+          "rel": "LICENSE_CMAPS",
+          "url": "https://github.com/dobachi/tana-extensions/releases/download/pdfjs-4.10.38/LICENSE_CMAPS",
+          "sha256": "aa92ab5a472974865a96fd4a4e9c13bb41bf6fe1b309cb6b8da48bc9e19839a2",
+          "size": 2080
+        },
+        {
+          "rel": "LICENSE_FOXIT",
+          "url": "https://github.com/dobachi/tana-extensions/releases/download/pdfjs-4.10.38/LICENSE_FOXIT",
+          "sha256": "b578cdd2345840ada550bd12519533812320d5f1d21cf4c1c7e1b1b0a31c98b7",
+          "size": 1553
+        },
+        {
+          "rel": "LICENSE_LIBERATION",
+          "url": "https://github.com/dobachi/tana-extensions/releases/download/pdfjs-4.10.38/LICENSE_LIBERATION",
+          "sha256": "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b",
+          "size": 4414
+        }
+      ]
+    }
+  ]
+}
